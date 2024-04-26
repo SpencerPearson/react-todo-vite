@@ -34,7 +34,7 @@ export default function About() {
               <a href="https://formik.org/docs/overview" target='_blank' rel='noreferrer'
               className="p-link">Formik</a>
               &nbsp;and <a href="https://github.com/jquense/yup" target='_blank' rel='noreferrer' className="p-link"> Yup</a>.
-              The full source code is <a href="https://github.com/SpencerPearson/react_todo_example" target='_blank' rel='noreferrer' className="p-link">available on GitHub</a>.
+              The full source code is <a href="https://github.com/SpencerPearson/react-todo-vite" target='_blank' rel='noreferrer' className="p-link">available on GitHub</a>.
             </p>
           </Col>
         </Row>
